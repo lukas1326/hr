@@ -1,9 +1,0 @@
-{'link': array(['https://rabota.ua/cv/11926446', 'https://rabota.ua/cv/5871428',
-       'https://rabota.ua/cv/6017984', 'https://rabota.ua/cv/6113203',
-       'https://rabota.ua/cv/6421041', 'https://rabota.ua/cv/6510369',
-       'https://rabota.ua/cv/6871142', 'https://rabota.ua/cv/7223610',
-       'https://rabota.ua/cv/7587333', 'https://rabota.ua/cv/7913258',
-       'https://rabota.ua/cv/8099458', 'https://rabota.ua/cv/8166398',
-       'https://rabota.ua/cv/8220189', 'https://rabota.ua/cv/4546874',
-       'https://rabota.ua/cv/6295406', 'https://rabota.ua/cv/6316501',
-       'https://rabota.ua/cv/7140503'], dtype=object), 'event': 'AI_choice', 'position': 'CCO', 'date': '06/12/2019'}
