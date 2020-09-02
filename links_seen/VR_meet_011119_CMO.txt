@@ -1,5 +1,0 @@
-0      https://rabota.ua/cv/5669965
-7     https://rabota.ua/cv/13108905
-14     https://rabota.ua/cv/6095045
-26     https://rabota.ua/cv/3392006
-Name: link, dtype: object
