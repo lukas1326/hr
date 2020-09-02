@@ -1,2 +1,0 @@
-26    https://rabota.ua/cv/3392006
-Name: link, dtype: object
